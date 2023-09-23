@@ -1,12 +1,24 @@
+/*meu comentario*/
+*{
+    margin: 1;/*margem*/
+    padding: 1;/*preechimento*/
+   }
+
 body{
+    height: 100% ; /*aultura*/
+    width: 100% ; /*largura*/
+    display: flex;
+    justify-content: center;
     text-align: center;
-    text-size-adjust: 100px;
-    background: linear-gradient(rgb(0, 0, 161),rgb(88, 187, 220));
-    shape-image-threshold: inherit;
+    background: linear-gradient(#00aaff ,#2600ff);
+    background-repeat: no-repeat;
 }
-h1{
-    color: blue;
+.imagem{
+    display:;
 }
-css/main.css{
-    ;
+.name{
+    display: flex;
+    justify-content: center;
+    font-size:60px;
+    font-family:;
 }
