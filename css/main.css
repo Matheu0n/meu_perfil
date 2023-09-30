@@ -5,7 +5,7 @@
    }
 
 body{
-    height: 200% ; /*aultura*/
+    height: 100% ; /*aultura*/
     width: 100% ; /*largura*/
     display: flex;
     justify-content: center;
@@ -16,9 +16,10 @@ body{
 .avatar{
     
     box-shadow: 0 5px 5px rgba(0,0,0.1);
-    border-radius:px;
+    border-radius:60px;
     height: 200px;
-    width: 2400px;
+    width: 400px;
+    
    ;
 }
 .name{
